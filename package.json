@@ -1,0 +1,16 @@
+{
+  "name": "jp-healthmeasurements",
+  "version": "1.3.7",
+  "description": "Calculates an Individuals BMI and other health measurements automatically so you dont have to handle the math in your code",
+  "main": "lib/index.js",
+  "types": "lib",
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "keywords": ["bmi", "health", "fitness", "calories", "measurements", "fat", "carbs", "protein"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  }
+}
