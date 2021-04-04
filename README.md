@@ -144,4 +144,4 @@ Calculate the calories parameter from the caloriesNeeded method above
 > dailyMacros(1726.02, .25, .45, .30) returns
 >> { "fCal": 431.5, "fGram": 47.94, "cCal": 776.71, "cGram": 194.18, "pCal": 517.81, "pGram": 129.45 }
 
-##### Project is free to use and improvements are welcome source code found at https://github.com/JustinPaoletta/health-measurements
+##### Project is free to use and improvements are welcome. Source code found at https://github.com/JustinPaoletta/health-measurements
